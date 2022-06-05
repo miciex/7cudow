@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/7cudow/static/css/main.2cfa89eb.css",
+    "main.js": "/7cudow/static/js/main.3b2a229a.js",
+    "static/js/787.fcf5c528.chunk.js": "/7cudow/static/js/787.fcf5c528.chunk.js",
+    "static/media/EmmanuelLasker.jpg": "/7cudow/static/media/EmmanuelLasker.fa53eb29f7ae77f719f3.jpg",
+    "static/media/MagnusCarlsen.jpg": "/7cudow/static/media/MagnusCarlsen.8cd361f1baf7eaedecbd.jpg",
+    "static/media/BobbyFischer.jpg": "/7cudow/static/media/BobbyFischer.3f541749c485bf3c7829.jpg",
+    "static/media/GarryKasparov.jpg": "/7cudow/static/media/GarryKasparov.4be90b67ccf8bf91253f.jpg",
+    "static/media/ViswanathanAnand.jpg": "/7cudow/static/media/ViswanathanAnand.25fdcd59645dc5c1640a.jpg",
+    "static/media/Chess.jpg": "/7cudow/static/media/Chess.7dacda8adee79d8be0c5.jpg",
+    "static/media/JoseRaulCapablanca.jpg": "/7cudow/static/media/JoseRaulCapablanca.b11f66d92729ad7b4af2.jpg",
+    "static/media/Paulmorphy.jpg": "/7cudow/static/media/Paulmorphy.542cfeaac989a2278292.jpg",
+    "index.html": "/7cudow/index.html",
+    "main.2cfa89eb.css.map": "/7cudow/static/css/main.2cfa89eb.css.map",
+    "main.3b2a229a.js.map": "/7cudow/static/js/main.3b2a229a.js.map",
+    "787.fcf5c528.chunk.js.map": "/7cudow/static/js/787.fcf5c528.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2cfa89eb.css",
+    "static/js/main.3b2a229a.js"
+  ]
+}
