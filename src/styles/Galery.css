@@ -1,0 +1,18 @@
+.galery {
+    height: 60vh;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+.galery img {
+    height: 100%;
+}
+
+@media screen and (max-width: 600px) {
+    .galery {
+        height: 45vh;
+        max-width: 90%;
+        overflow: hidden;
+    }
+}

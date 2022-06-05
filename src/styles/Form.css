@@ -1,0 +1,21 @@
+.form h2 {
+    font-size: 2.5rem;
+}
+
+.form p {
+    text-align: left;
+}
+
+.form button {
+    display: block;
+}
+
+@media screen and (max-width: 600px) {
+    .form h2 {
+        font-size: 1.5rem;
+    }
+}
+
+.form .comment {
+    padding: 10px 0;
+}

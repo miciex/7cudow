@@ -1,0 +1,133 @@
+:root {
+  --white: #f5f5f5;
+  --black: #000;
+  --coffee: #99725c;
+  --green: #bbccb8;
+  --skin: #CCBEB8;
+}
+
+.cud h2 {
+  font-size: 2.5rem;
+}
+
+.cud h3 {
+  font-size: 2rem;
+  text-align: center;
+}
+
+.cud h4 {
+  font-size: 1.5rem;
+}
+
+.cud {
+  width: 50%;
+  max-width: 800px;
+  font-size: 1.125rem;
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+.cud span {
+  color: var(--coffee);
+  text-align: right;
+}
+
+.cud p {
+  font-size: 1.25rem;
+  color: var(--coffee);
+  text-align: center;
+}
+
+@media screen and (max-width: 1200px) {
+  .cud {
+    width: 70%;
+  }
+
+  .cud h2 {
+    padding: 15px;
+    font-size: 2.25rem;
+  }
+
+  .cud h3 {
+    font-size: 1.75rem;
+  }
+
+  .cud h4 {
+    font-size: 1.25rem;
+  }
+}
+
+.cud p {
+  text-align: left;
+}
+
+@media screen and (max-width: 600px) {
+  .cud {
+    width: 90%;
+  }
+
+  .cud h2 {
+    padding: 10px;
+    font-size: 2rem;
+  }
+
+  .cud span,
+  p {
+    font-size: 1rem;
+    text-align: center;
+  }
+
+  .cud h3 {
+    font-size: 1.5rem;
+  }
+
+  .cud h4 {
+    font-size: 1rem;
+  }
+}
+
+.cud h2 {
+  text-align: center;
+  padding: 20px;
+}
+
+.cud .wrap {
+  display: flex;
+  height: fit-content;
+  width: 100%;
+  justify-content: center;
+  flex-grow: 0;
+}
+
+.cud .img {
+  width: fit-content;
+  max-width: 90vw;
+  overflow: hidden;
+  display: flex;
+  justify-content: center;
+}
+
+.cud img {
+  height: 40vh;
+}
+
+.cud table {
+  border-collapse: collapse;
+  margin: 0;
+  margin: 20px;
+}
+
+.cud tr {
+  border-collapse: collapse;
+}
+
+.cud td {
+  padding: 5px 10px;
+  border-collapse: collapse;
+  border: #000 solid 2px;
+}
+
+.cud .margin {
+  margin-top: 20px;
+}
